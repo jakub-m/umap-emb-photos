@@ -1,0 +1,6 @@
+/venv/
+/output/
+out.log
+*.svg
+.ipynb_checkpoints
+__pycache__
