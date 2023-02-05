@@ -1,8 +1,8 @@
-# Visualize ResNet embedings with UMAP
+# Visualize ResNet embeddings with UMAP
 
 I took my personal backup (mostly family photos, some random scans, etc), extracted the embeddings from [ResNet][ref_resnet] (pen-ultimate layer activations), and then plotted them with the [UMAP algorithm][ref_umap] and [bokeh library][ref_bokeh]
 
-This was a one-afternoon learning exercise while doing the awesome [Fast AI course][ref_fastai]. The results are quite fun. ResNet returns 512 feature and UMAP maps those features into 2D plane, preserving distances as much as possible. The outliers show that the embedings "make sense", clustering the images that are similar to other ones in the cluster, and different from those outside the cluster.
+This was a one-afternoon learning exercise while doing the awesome [Fast AI course][ref_fastai]. The results are quite fun. ResNet returns 512 feature and UMAP maps those features into 2D plane, preserving distances as much as possible. The outliers show that the embeddings "make sense", clustering the images that are similar to other ones in the cluster, and different from those outside the cluster.
 
 [ref_resnet]:https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html
 [ref_umap]:https://umap-learn.readthedocs.io/en/latest/basic_usage.html
