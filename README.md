@@ -49,12 +49,8 @@ find output/torch_thumbs -name \*.jpg | ./embeddings.py -o  output/features_resn
 
 3. Cast the embeddings from 512 feature space to good old 2d space with umap-learn.  Visualize the results with `bokeh`.  Running UMAP and the visualization is done from a Jupyter notebook [`visualize.ipynb`](visualize.ipynb).
 
-4. To show thumbnails when you hover over a point you need to run python3 -m http.server to serve the images.
+4. To show thumbnails when you hover over a point you need to run `python3 -m http.server` to serve the images.
 
 Voila!
 
-[HN]()
-
-[Tw](https://twitter.com/JakubMikians/status/1622367716425228288)
-
-[Blog](https://jakub-m.github.io/2023/02/05/umap.html)
+[HN]() | [Tw](https://twitter.com/JakubMikians/status/1622367716425228288) | [Blog](https://jakub-m.github.io/2023/02/05/umap.html)
