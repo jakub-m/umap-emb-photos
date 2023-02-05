@@ -55,4 +55,6 @@ Voila!
 
 [HN]()
 
-[T](https://twitter.com/JakubMikians/status/1622367716425228288)
+[Tw](https://twitter.com/JakubMikians/status/1622367716425228288)
+
+[Blog](https://jakub-m.github.io/2023/02/05/umap.html)
