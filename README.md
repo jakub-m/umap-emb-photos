@@ -53,4 +53,4 @@ find output/torch_thumbs -name \*.jpg | ./embeddings.py -o  output/features_resn
 
 Voila!
 
-[HN]() | [Tw](https://twitter.com/JakubMikians/status/1622367716425228288) | [Blog](https://jakub-m.github.io/2023/02/05/umap.html)
+[HN](https://news.ycombinator.com/item?id=34670553) | [Tw](https://twitter.com/JakubMikians/status/1622367716425228288) | [Blog](https://jakub-m.github.io/2023/02/05/umap.html)
